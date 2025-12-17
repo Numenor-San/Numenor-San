@@ -38,9 +38,10 @@ My work spans **honeybee nutrition & health**, **protein engineering**, and **da
 
 ---
 
-### 📫 Get in touch
+### 📫 You can also find me
 - GitHub: https://github.com/Numenor-San  
 - LinkedIn: https://www.linkedin.com/in/rui-go/  
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=dzuQH8YAAAAJ
+- ProteinBase: https://proteinbase.com/numenor-san
 
 > *“Bridging experimental biology with computation to build things that work in the real world.”*
