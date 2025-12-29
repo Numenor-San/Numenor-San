@@ -1,6 +1,6 @@
 # Hi, I'm Rui
 
-Usually in the world of atoms, but here to dive into the world of bits.
+Usually interacting with atoms, but here to dive into the world of bits.
 I'm a researcher working at the intersection of **biology, computation, and entrepreneurship**.  
 My work spans **honeybee nutrition & health**, **protein engineering**, and **data-driven experimental design**, with applications in agriculture, biotech, and sustainability.
 
