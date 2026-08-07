@@ -1,8 +1,8 @@
 # Hi, I'm Rui
 
-Usually interacting with atoms, but here to dive into the world of bits.
-I'm a researcher working at the intersection of **biology, computation, and entrepreneurship**.  
-My work spans **honeybee nutrition & health**, **protein engineering**, and **data-driven experimental design**, with applications in agriculture, biotech, and sustainability.
+Usually interacting with atoms, but here I'm exploring the world of bits.
+I'm a hybrid of science/entrepreneurship working in **biology, computation, and entrepreneurship**.
+My field of expertise is **honeybee nutrition & health**. Over the last couple of years, I've been fascinated by **protein engineering ** and **data-driven experimental design**, with translational applications in biotech.
 
 ---
 
