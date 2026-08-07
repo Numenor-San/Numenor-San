@@ -2,7 +2,7 @@
 
 Usually interacting with atoms, but here I'm exploring the world of bits.
 I'm a hybrid of science/entrepreneurship working in **biology, computation, and entrepreneurship**.
-My field of expertise is **honeybee nutrition & health**. Over the last couple of years, I've been fascinated by **protein engineering ** and **data-driven experimental design**, with translational applications in biotech.
+My field of expertise is **honeybee nutrition & health**. Over the last couple of years, I've been fascinated by **protein engineering** and **data-driven experimental design**, with translational applications in biotech.
 
 ---
 
